@@ -50,7 +50,7 @@
 // #define BACKWARD_SYSTEM_DARWIN
 //	- specialization for Mac OS X 10.5 and later.
 //
-#define BACKWARD_SYSTEM_UNKNOWN
+// #define BACKWARD_SYSTEM_UNKNOWN
 //	- placebo implementation, does nothing.
 //
 #if defined(BACKWARD_SYSTEM_LINUX)
